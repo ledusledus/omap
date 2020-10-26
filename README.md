@@ -10,7 +10,7 @@ Documentation on making orienteering maps for amateurs
 # How to add to this documentation.
 
 * Get permissions to contribute.
-* Update documentation.
+* Update documentation in markdown (see [instructions](https://guides.github.com/features/mastering-markdown/)).
 * Create pull request.
 
 ## How to add an image to documentation
