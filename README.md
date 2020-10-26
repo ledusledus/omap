@@ -2,11 +2,13 @@
 Documentation on making orienteering maps for amateurs
 
 # What is there?
-[Software](software.md) - what software the documentation is about.
-[Data](data.md) - where can one get data?
-[Tutorials](howto.md) - how to make the maps.
+
+* [Software](software.md) - what software the documentation is about.
+* [Data](data.md) - where can one get data?
+* [Tutorials](howto.md) - how to make the maps.
 
 # How to add to this documentation.
+
 * Get permissions to contribute.
 * Update documentation.
 * Create pull request.
